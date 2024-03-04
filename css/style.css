@@ -10,8 +10,12 @@ p, h2 {
 }
 
 body {
-    width: 3280px;
+    min-width: 1800;
     height: 1314px;
+}
+
+.container {
+    width: 1800px;
 }
 
 .button-item {
